@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../styles/reset.css" />
+    <link rel="stylesheet" href="../styles/game.css" />
+
+    <script defer src="../javascript/game.js"></script>
+
+    <title>Jogo da Memória</title>
+  </head>
+
+  <body>
+    <main>
+      <header>
+        <span class="player"></span>
+        <span>Tempo: <span class="timer">00</span></span>
+      </header>
+
+      <div class="grid"></div>
+      <div class="end-game-screen" style="display: none">
+        <h1 class="end-message"></h1>
+        <button class="restart-button">Jogar Novamente</button>
+      </div>
+    </main>
+    <audio id="bg-music" autoplay loop>
+      <source src="../sounds/rickandmorty.mp3" type="audio/mp3" />
+      Seu navegador não suporta áudio.
+    </audio>
+    <button id="toggle-music">🎵</button>
+  </body>
+</html>
