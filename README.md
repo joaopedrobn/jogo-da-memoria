@@ -2,8 +2,7 @@
 
 ![logo](https://github.com/user-attachments/assets/e619a985-b5a2-4ad1-a71b-d094514de111)
 
-
-Acesse o projeto (e também jogue) [aqui](https://seu-link-aqui.github.io/jogo-da-memoria).
+Acesse o projeto (e também jogue) [aqui](https://jogo-da-memoria-steel-one.vercel.app/).
 
 ## 📌 Descrição
 
