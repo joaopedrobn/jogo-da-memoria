@@ -1,6 +1,6 @@
 # 🧠 Jogo da Memória - Rick and Morty
 
-![logo](https://github.com/user-attachments/assets/e619a985-b5a2-4ad1-a71b-d094514de111)
+![Screenshot_2-removebg-preview](https://github.com/user-attachments/assets/6cbe2140-49f8-4796-9066-1b6438f9d6f0)
 
 Acesse o projeto (e também jogue) [aqui](https://jogo-da-memoria-steel-one.vercel.app/).
 
