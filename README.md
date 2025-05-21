@@ -1,6 +1,6 @@
 # 🧠 Jogo da Memória - Rick and Morty
 
-![Screenshot_2-removebg-preview](https://github.com/user-attachments/assets/6cbe2140-49f8-4796-9066-1b6438f9d6f0)
+![Screenshot_2-removebg-preview](https://github.com/user-attachments/assets/c0ee3c25-fd43-4d13-bf1d-cf3a5a0c9d9d)
 
 Acesse o projeto (e também jogue) [aqui](https://jogo-da-memoria-steel-one.vercel.app/).
 
@@ -27,14 +27,14 @@ Teste sua memória combinando pares de personagens ao som do tema da série, que
 
 Aqui você pode ter uma ideia de como é o jogo:
 
-![Gameplay Screenshot](caminho/para/seu/screenshot.png)
+![Screenshot_1](https://github.com/user-attachments/assets/c4f11255-f65a-44d5-b24f-27cb948f08c9)
 *Legenda: Tela principal do jogo em ação.*
 
 ### Animação das Cartas
 
 Veja a animação fluida ao virar as cartas:
 
-![Card Flip Animation GIF](caminho/para/seu/animacao.gif)
+![2025-05-21-15-59-33](https://github.com/user-attachments/assets/5e35a28d-8dfd-430a-b4da-d917b821724e)
 *Legenda: Demonstração da animação de virar as cartas.*
 
 ## 🛠️ Funcionalidades
